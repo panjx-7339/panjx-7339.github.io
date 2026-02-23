@@ -9,4 +9,4 @@ challenges and cybersecurity research!
 
 You can find me on these socials:
 - [LinkedIn](https://www.linkedin.com/in/pan-jinxia)
-- [Github](https://www.linkedin.com/in/pan-jinxia)
+- [Github](https://github.com/panjx-7339)
