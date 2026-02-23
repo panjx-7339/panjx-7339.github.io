@@ -14,7 +14,7 @@ timezone: Asia/Singapore
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My CTF Writeups # the main title
+title: Pan Jinxia # the main title
 
 tagline: Documenting my hacking journey # it will display as the subtitle
 
@@ -35,7 +35,6 @@ social:
   email: panjinxia06@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/panjx-7339 # change to your GitHub homepage
     - https://www.linkedin.com/in/pan-jinxia
 
 # Site Verification Settings
@@ -92,7 +91,7 @@ theme_mode:
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D4D03AQEC0wZYAkCWCA/profile-displayphoto-scale_200_200/B4DZutMSMZJQAY-/0/1768137239167?e=1773273600&v=beta&t=2bym0W7iJQuY_0zUmjkNEQeBSJC2LMX5X2msFDi5ee0
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
