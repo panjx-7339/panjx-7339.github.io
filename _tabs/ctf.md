@@ -23,6 +23,6 @@ An overview of CTFs I've participated in and challenges solved.
 | [Cortex Decay](/posts/bkctf-cortex-decay/) | Crypto | Easy |
 | Y2K Time Capsule | Crypto | Medium |
 | [Egghead](/posts/bkctf-egghead/) | Pwn | Easy |
-| [My First Blog](/posts/my-first-blog/) | Web | Easy |
-| [osint](/posts/more-like-ohshitamirite) | Osint | Easy |
+| [My First Blog](/posts/bkctf-my-first-blog/) | Web | Easy |
+| [more like oh shit amirite](/posts/bkctf-more-like-ohshitamirite) | Osint | Easy |
 | MOM GET THE CAMERA | Osint | Medium |
