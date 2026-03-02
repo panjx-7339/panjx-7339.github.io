@@ -1,6 +1,6 @@
 ---
 title: "bkctf — Personal Blog"
-date: 2024-02-23
+date: 2026-02-23
 categories: [CTF, bkctf]
 tags: [web, path-traversal, api-key-leak, file-read]
 description: "Exploiting an exposed API key and absolute path traversal on a file serving endpoint to read /flag.txt."

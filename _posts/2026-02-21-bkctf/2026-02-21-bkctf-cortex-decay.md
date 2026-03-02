@@ -1,6 +1,6 @@
 ---
 title: "bkctf — RSA with Weak Primes Writeup"
-date: 2024-02-22
+date: 2026-02-22
 categories: [CTF, bkctf]
 tags: [crypto, rsa, factorization, python, sympy]
 description: Breaking RSA by factoring a modulus composed of 8 weak prime factors.

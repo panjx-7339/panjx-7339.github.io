@@ -1,6 +1,6 @@
 ---
 title: "bkctf — Exploiting Stack Buffer Overflow"
-date: 2024-02-22
+date: 2026-02-22
 categories: [CTF, bkctf]
 tags: [pwn, buffer-overflow, stack, ret2win, pwntools, python]
 description: Exploiting a stack buffer overflow to redirect execution to a hidden win() function.

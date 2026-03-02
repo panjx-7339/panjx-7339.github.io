@@ -1,6 +1,6 @@
 ---
 title: "bkctf — Bridge OSINT challenge"
-date: 2024-02-23
+date: 2026-02-23
 categories: [CTF, bkctf]
 tags: [osint, photo-geolocation, google-maps, reverse-image-search]
 description: "Identifying a bridge in Battambang, Cambodia using reverse image search, landmark recognition, and a clever music reference."
